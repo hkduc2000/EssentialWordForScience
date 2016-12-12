@@ -1,0 +1,54 @@
+﻿0 Cấu tạo lớp côn trùng- tiếng anh : a0.1
+   Cấu tạo lớp côn trùng- tiếng việt: a0.2
+
+1 Cấu tạo lớp giáp xác- tiếng anh: a1.1
+   Cấu tạo lớp giáp xác- tiếng việt: a1.2
+
+2 Cấu tạo lớp hình nhện- tiếng anh: a2.1
+  Cấu tạo lớp hình nhện- tiếng việt: a2.2
+
+3 Cấu tạo lớp bò sát - tiếng anh: a3.1
+  Cấu tạo lớp bò sát - tiếng việt: a3.2
+
+4  Cấu tạo giun dẹp- tiếng anh: a4.1
+  Cấu tạo giun dẹp- tiếng việt: a4.2
+
+5 Cấu tạo giun đốt- tiếng anh: a5.1
+   Cấu tạo giun đốt- tiếng việt: a5.2
+
+6  Cấu tạo giun tròn- tiếng anh: a6.1
+  Cấu tạo giun tròn- tiếng việt: a6.2
+
+7. Cấu tạo lớp chim - tiếng anh : a7.1
+    Cấu tạo lớp chim - tiếng việt: a7.2
+
+8. Lớp lưỡng cư - tiếng anh: a8.1
+   Lớp lưỡng cư - tiếng việt: a8.2
+
+9. Cấu tạo lớpp thú - tiếng anh: a9.1
+      Cấu tạo lớp thú - tiếng việt: a9.2
+
+10. Cấu tạo ngành thân mềm- tiếng anh: a10.1
+      Cấu tạo ngành thân mềm- tiếng việt: a10.2
+
+11.   Động vật nguyên sinh- đại diện- tiếng anh: a11.1
+      Động vật nguyên sinh - đại diện - tiếng việt : a11.2
+
+12. Cấu tạo tế bào động vật - tiếng anh: a12.1
+     Cấu tạo tế bào động vật - tiếng việt : a12.2
+
+13. Nguyên sinh - một số từ vựng khác - tiếng anh: a13.1
+     Nguyên sinh - một số từ vựng khác - tiếng anh: a13.2
+
+14 Một số từ khác lớp thú - tiếng anh : a14.1
+    Một số từ khác lớp thú - tiếng việt: a14.2
+
+15 Một số từ khác lớp lưỡng cư - tiếng anh: a15.1
+Một số từ khác lớp lưỡng cư - tiếng việt : a15.2
+
+16. Một số từ khác lớp chim - tiếng anh : a16.1
+     Một số từ khác lớp chim - tiếng việt: a16.2
+
+
+ 
+
